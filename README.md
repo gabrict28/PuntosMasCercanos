@@ -8,7 +8,7 @@ Características
 
 ·Algoritmo Divide y Vencerás: Optimiza la búsqueda de los puntos más cercanos con un enfoque recursivo.
 
-·Eficiencia: Solución con complejidad temporal de O(nlog⁡n)O(nlogn).
+·Eficiencia: Solución con complejidad temporal de O(nlog⁡n).
 
 ·Implementación en C++.
 
